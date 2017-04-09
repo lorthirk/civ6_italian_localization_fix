@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- GameData1 -->
+<!-- Author: Lorthirk -->
+<!-- DateCreated: 4/1/2017 6:02:54 PM -->
+<GameData>
+	<LocalizedText>
+		<!-- Militaristic City State Bonus -->
+		<Replace Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_MEDIUM_INFLUENCE_BONUS" Language="it_IT">
+			<Text>+2 [ICON_Production] Produzione in ogni distretto Accampamento quando costruisci delle unità.</Text>
+		</Replace>
+		<Replace Tag="LOC_MINOR_CIV_MILITARISTIC_TRAIT_LARGE_INFLUENCE_BONUS" Language="it_IT">
+			<Text>+2 [ICON_Production] Produzione aggiuntiva in ogni distretto Accampamento quando costruisci delle unità.</Text>
+		</Replace>
+		<!-- Resources Report -->
+		<Replace Tag="LOC_HUD_REPORTS_CONTROL" Language="it_IT">
+			<Text>Provenienza</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_REPORTS_TRADE_IMPORTED" Language="it_IT">
+			<Text>Importazione</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_REPORTS_TRADE_EXPORTED" Language="it_IT">
+			<Text>Esportazione</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_REPORTS_TRADE_OWNED" Language="it_IT">
+			<Text>Possesso</Text>
+		</Replace>
+		<Replace Tag="LOC_HUD_REPORTS_CONTROL" Language="it_IT">
+			<Text>Stato</Text>
+		</Replace>
+		<!-- Irrigation boost-->
+		<Replace Tag="LOC_BOOST_TRIGGER_IRRIGATION" Language="it_IT">
+			<Text>Costruisci una Fattoria su una risorsa.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
