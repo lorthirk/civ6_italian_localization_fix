@@ -15,7 +15,7 @@ Of course I can fix only strings I know about, so if you spot any issue in the I
     <Authors>Lorthirk</Authors>
     <SpecialThanks>
     </SpecialThanks>
-    <AffectsSavedGames>true</AffectsSavedGames>
+    <AffectsSavedGames>false</AffectsSavedGames>
     <SupportsSinglePlayer>true</SupportsSinglePlayer>
     <SupportsMultiplayer>true</SupportsMultiplayer>
     <SupportsHotSeat>true</SupportsHotSeat>
@@ -27,9 +27,6 @@ Of course I can fix only strings I know about, so if you spot any issue in the I
   <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
     <OutputPath>.</OutputPath>
   </PropertyGroup>
-  <ItemGroup>
-    <None Include="Mod.Art.xml" />
-  </ItemGroup>
   <ItemGroup>
     <Content Include="Italian_Localization_Fix.xml">
       <SubType>Content</SubType>
