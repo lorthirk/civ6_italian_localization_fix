@@ -31,5 +31,9 @@
 		<Replace Tag="LOC_BOOST_TRIGGER_IRRIGATION" Language="it_IT">
 			<Text>Costruisci una Fattoria su una risorsa.</Text>
 		</Replace>
+		<!-- City overview panel -->
+		<Replace Tag="LOC_HUD_CITY_ALL_YIELDS" Language="it_IT">
+			<Text>Rese (eccetto il Cibo)</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
