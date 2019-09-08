@@ -51,5 +51,12 @@
 		<Replace Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1" Language="it_IT">
 			<Text>+1 a tutte le rese di ogni palazzo governativo e Palazzo in una città.</Text>
 		</Replace>
+		<!-- Ancient and classical -->
+		<Replace Tag="LOC_POLICY_CORVEE_DESCRIPTION" Language="it_IT">
+			<Text>+15% [ICON_Production] Produzione per la costruzione di Meraviglie di epoca antica e classica.</Text>
+		</Replace>
+		<Replace Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION" Language="it_IT">
+			<Text>+100% [ICON_Production] Produzione per la costruzione di unità navali di epoca antica e classica.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
