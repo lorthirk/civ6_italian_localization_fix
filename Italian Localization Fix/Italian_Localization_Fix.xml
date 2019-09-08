@@ -62,5 +62,13 @@
 		<Replace Tag="LOC_GAME_MENU_RETIRE" Language="it_IT">
 			<Text>Ritira dal servizio</Text>
 		</Replace>
+		<!-- Dark -->
+		<Replace Tag="LOC_GOVT_FILTER_DARK" Language="it_IT">
+			<Text>Oscure</Text>
+		</Replace>
+		<!-- Great Person Activate Effect -->
+		<Replace Tag="LOC_GREATPERSON_ACTION_NAME_DEFAULT" Language="it_IT">
+			<Text>Attiva effetto</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
