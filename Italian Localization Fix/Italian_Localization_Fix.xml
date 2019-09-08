@@ -58,5 +58,9 @@
 		<Replace Tag="LOC_POLICY_MARITIME_INDUSTRIES_DESCRIPTION" Language="it_IT">
 			<Text>+100% [ICON_Production] Produzione per la costruzione di unità navali di epoca antica e classica.</Text>
 		</Replace>
+		<!-- Retire -->
+		<Replace Tag="LOC_GAME_MENU_RETIRE" Language="it_IT">
+			<Text>Ritira dal servizio</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
