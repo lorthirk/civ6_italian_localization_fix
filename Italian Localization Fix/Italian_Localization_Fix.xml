@@ -43,5 +43,9 @@
 		<Replace Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_INSTANCE_DESCRIPTION" Language="it_IT">
 			<Text>Il governo di {CityStatePlayerCivName} si inchina {ActingPlayerCivName[3]}, che {ActingPlayerCivName: plural 1?diventa il primo Sovrano;other?diventano i primi Sovrani;} della loro storia.</Text>
 		</Replace>
+		<!-- Reports tooltip -->
+		<Replace Tag="LOC_PARTIALSCREEN_REPORTS_TOOLTIP" Language="it_IT">
+			<Text>Lista di rapporti</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
