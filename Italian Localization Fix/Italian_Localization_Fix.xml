@@ -35,5 +35,13 @@
 		<Replace Tag="LOC_HUD_CITY_ALL_YIELDS" Language="it_IT">
 			<Text>Rese (eccetto il Cibo)</Text>
 		</Replace>
+		<!-- Great Works Display -->
+		<Replace Tag="LOC_GREAT_WORKS_DISPLAY_SPACES" Language="it_IT">
+			<Text>SPAZI ESPOSIZIONE</Text>
+		</Replace>
+		<!-- First sovereign -->
+		<Replace Tag="LOC_MOMENT_PLAYER_GAVE_ENVOY_BECAME_SUZERAIN_FIRST_IN_WORLD_INSTANCE_DESCRIPTION" Language="it_IT">
+			<Text>Il governo di {CityStatePlayerCivName} si inchina {ActingPlayerCivName[3]}, che {ActingPlayerCivName: plural 1?diventa il primo Sovrano;other?diventano i primi Sovrani;} della loro storia.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
