@@ -47,5 +47,9 @@
 		<Replace Tag="LOC_PARTIALSCREEN_REPORTS_TOOLTIP" Language="it_IT">
 			<Text>Lista di rapporti</Text>
 		</Replace>
+		<!-- Authocracy bonus -->
+		<Replace Tag="LOC_GOVT_INHERENT_BONUS_AUTOCRACY_XP1" Language="it_IT">
+			<Text>+1 a tutte le rese di ogni palazzo governativo e Palazzo in una città.</Text>
+		</Replace>
 	</LocalizedText>
 </GameData>
