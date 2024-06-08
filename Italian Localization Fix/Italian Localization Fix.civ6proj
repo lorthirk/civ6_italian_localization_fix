@@ -5,13 +5,9 @@
     <Name>Italian Localization Fix</Name>
     <Guid>28d52af2-0b4e-4dfa-b7bd-634d1bb05a55</Guid>
     <ProjectGuid>270bbacb-2ebb-4fe8-8049-2f3701590d4f</ProjectGuid>
-    <ModVersion>1</ModVersion>
+    <ModVersion>2</ModVersion>
     <Teaser>A small mod to fix minor Italian localization issues</Teaser>
-    <Description>This mod is born because I am kinda OCD about localization, and because I love Civ (even if I am not a good player at all, but I certainy do enjoy it).
-
-I noticed a smaill issue in the Italian localization, and decided to make a mod to fix it so my changes won't be lost every Civ update. It will be of no use to you if you're not playing Italian or if you don't mind about minor localization bugs.
-
-Of course I can fix only strings I know about, so if you spot any issue in the Italian localization, feel free to contact me and I'll add it as soon as possible!</Description>
+    <Description>This mod is born because I am kinda OCD about localization, and because I love Civ (even if I am not a good player at all, but I certainy do enjoy it).[NEWLINE][NEWLINE]I noticed a smaill issue in the Italian localization, and decided to make a mod to fix it so my changes won't be lost every Civ update. It will be of no use to you if you're not playing Italian or if you don't mind about minor localization bugs.[NEWLINE][NEWLINE]Of course I can fix only strings I know about, so if you spot any issue in the Italian localization, feel free to contact me and I'll add it as soon as possible!</Description>
     <Authors>Lorthirk</Authors>
     <SpecialThanks>
     </SpecialThanks>
